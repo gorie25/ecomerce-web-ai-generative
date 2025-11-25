@@ -1,0 +1,17 @@
+{
+    "login_title": "Đăng nhập",
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "login_button": "Đăng nhập",
+    "home_title": "Trang chủ",
+    "cart_title": "Giỏ hàng",
+    "settings_title": "Cài đặt",
+    "add_to_cart": "Thêm vào giỏ",
+    "total": "Tổng cộng",
+    "checkout": "Thanh toán",
+    "dark_mode": "Chế độ tối",
+    "language": "Ngôn ngữ",
+    "english": "Tiếng Anh",
+    "vietnamese": "Tiếng Việt",
+    "product_detail": "Chi tiết sản phẩm"
+}

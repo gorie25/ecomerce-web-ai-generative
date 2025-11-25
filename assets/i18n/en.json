@@ -1,0 +1,17 @@
+{
+  "login_title": "Login",
+  "username": "Username",
+  "password": "Password",
+  "login_button": "Login",
+  "home_title": "Home",
+  "cart_title": "Cart",
+  "settings_title": "Settings",
+  "add_to_cart": "Add to Cart",
+  "total": "Total",
+  "checkout": "Checkout",
+  "dark_mode": "Dark Mode",
+  "language": "Language",
+  "english": "English",
+  "vietnamese": "Vietnamese",
+  "product_detail": "Product Detail"
+}
