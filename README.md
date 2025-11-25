@@ -1,16 +1,26 @@
-# ecommerce_app
+🛒 ECOMERCE WEB AI GENERATIVE
 
-A new Flutter project.
+Dự án này là một ứng dụng thương mại điện tử đa nền tảng (Mobile, Web, Desktop) được xây dựng bằng Flutter. Điểm đặc biệt của dự án là tích hợp công nghệ AI Generative (sử dụng Gemini API) để tăng cường trải nghiệm người dùng trong các tính năng chính.
 
-## Getting Started
+Thiết lập Môi trường
 
-This project is a starting point for a Flutter application.
+Clone Repository:
 
-A few resources to get you started if this is your first Flutter project:
+git clone [https://github.com/gorie25/ecomerce-web-ai-generative.git](https://github.com/gorie25/ecomerce-web-ai-generative.git)
+cd ecomerce-web-ai-generative
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Cài đặt Dependencies:
+
+flutter pub get
+
+
+Cấu hình API Key:
+
+Bạn nên lưu trữ khóa API Gemini trong một file môi trường (ví dụ: .env) hoặc thông qua Backend Proxy (rất khuyến nghị cho ứng dụng di động).
+
+(Thêm hướng dẫn chi tiết về cách cấu hình API Key của bạn tại đây)
+
+Chạy Ứng dụng:
+
+flutter run
